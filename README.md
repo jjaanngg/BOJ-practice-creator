@@ -23,8 +23,3 @@ This tool handles the full pipeline from problem sampling to group practice crea
 - Selenium WebDriver  
 - MongoDB (via pymongo)  
 - dotenv, requests
-
----
-
-## 📁 Project Structure
-
